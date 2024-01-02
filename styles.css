@@ -1,4 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.6;
+}
 .bootstrap {
   text-decoration: none;
   color: #754ffe;
+}
+p {
+  color: #64748b;
+}
+h2,
+h3 {
+  color: #0f172a;
+  font-size: 1.25rem;
+  line-height: 1.4;
+  margin-bottom: 0.5rem;
+  margin-top: 0;
+  letter-spacing: -0.022rem;
 }
